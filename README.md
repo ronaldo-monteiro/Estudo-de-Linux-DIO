@@ -18,3 +18,6 @@ Repositorio criado para o estudo do sistema operacioinal Linux
   [APRENDA LINUX - CONTEÚDO PARA INICIANTES](https://www.youtube.com/playlist?list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj)
   
   - Uma série de vídeos que aborda os assuntos básicos para você que é iniciante no Linux, "pegando pela mão" e apresentando todos os detalhes.
+  - Não poderia deixar de fora o site da LPI LINUX PROFESSIONAL INSTITUTE
+
+  [SITE DA LPI - EXCELENTES CONTEÚDOS SOBRE LINUX](https://www.lpi.org/)
