@@ -22,8 +22,6 @@ Repositorio criado para o estudo do sistema operacioinal Linux
 
  [GUIA FOCA LINUX](https://guiafoca.org/) - Um excelente material em português para aprender Linux, desde conceitos básicos até avançados.
 
-  
-  - Uma série de vídeos que aborda os assuntos básicos para você que é iniciante no Linux, "pegando pela mão" e apresentando todos os detalhes.
   - Não poderia deixar de fora o site da LPI LINUX PROFESSIONAL INSTITUTE
 
   [SITE DA LPI - EXCELENTES CONTEÚDOS SOBRE LINUX](https://www.lpi.org/)
