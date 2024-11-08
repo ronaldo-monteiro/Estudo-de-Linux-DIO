@@ -1,6 +1,6 @@
 # Estudo-de-Linux
 
-Repositorio criado para o estudo do sistema operacioinal Linux
+### Repositorio criado para o estudo do sistema operacioinal Linux
 
  - Microsoft Windows 
  - Mac OS
