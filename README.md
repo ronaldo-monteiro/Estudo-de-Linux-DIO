@@ -1,4 +1,4 @@
-# Estudo-de-Linux-DIO
+# Estudo-de-Linux
 
 Repositorio criado para o estudo do sistema operacioinal Linux
 
@@ -16,6 +16,12 @@ Repositorio criado para o estudo do sistema operacioinal Linux
   [LINUX: CONFIRA TUDO SOBRE O SISTEMA OPERACIONAL](https://www.hostgator.com.br/guias/linux-tudo-sobre-sistema/)
   
   [APRENDA LINUX - CONTEÚDO PARA INICIANTES](https://www.youtube.com/playlist?list=PLZsjaJhVZaxX9xCXhZDJnhFcIL4ncLjVj)
+
+
+  
+
+ [Guia Foca Linux](https://guiafoca.org/) - Um excelente material em português para aprender Linux, desde conceitos básicos até avançados.
+
   
   - Uma série de vídeos que aborda os assuntos básicos para você que é iniciante no Linux, "pegando pela mão" e apresentando todos os detalhes.
   - Não poderia deixar de fora o site da LPI LINUX PROFESSIONAL INSTITUTE
