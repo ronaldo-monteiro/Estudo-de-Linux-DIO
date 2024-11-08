@@ -27,3 +27,5 @@
 
 
 - [Viva o Linux](https://www.vivaolinux.com.br/) - Uma das maiores comunidades brasileiras de usuários de Linux, com artigos, tutoriais e fóruns.
+
+- [Pinguim do Linux](https://github.com/ronaldo-monteiro/Estudo-de-Linux/blob/main/Tux.png)
