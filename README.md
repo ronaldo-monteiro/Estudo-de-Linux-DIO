@@ -24,3 +24,6 @@
 
   
   [SITE DA LPI - EXCELENTES CONTEÚDOS SOBRE LINUX](https://www.lpi.org/) - Não poderia deixar de fora o site da LPI LINUX PROFESSIONAL INSTITUTE
+
+
+- [Viva o Linux](https://www.vivaolinux.com.br/) - Uma das maiores comunidades brasileiras de usuários de Linux, com artigos, tutoriais e fóruns.
