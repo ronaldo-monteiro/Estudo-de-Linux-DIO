@@ -28,6 +28,7 @@
 
 - [Viva o Linux](https://www.vivaolinux.com.br/) - Uma das maiores comunidades brasileiras de usuários de Linux, com artigos, tutoriais e fóruns.
 
+## Este é o mascote do linux, Tux!
 -![Pinguim do Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
