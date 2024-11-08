@@ -20,7 +20,7 @@ Repositorio criado para o estudo do sistema operacioinal Linux
 
   
 
- [Guia Foca Linux](https://guiafoca.org/) - Um excelente material em português para aprender Linux, desde conceitos básicos até avançados.
+ [GUIA FOCA LINUX](https://guiafoca.org/) - Um excelente material em português para aprender Linux, desde conceitos básicos até avançados.
 
   
   - Uma série de vídeos que aborda os assuntos básicos para você que é iniciante no Linux, "pegando pela mão" e apresentando todos os detalhes.
